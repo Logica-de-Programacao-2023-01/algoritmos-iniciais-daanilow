@@ -1,0 +1,7 @@
+1. leia x 
+2. leia u 
+3. se u = c entao 
+4. soma = x * 1,8 + 32 
+5. senao se u = f 
+6. soma = ( x - 32 ) / 1,8 
+7. escreva soma
