@@ -1,0 +1,11 @@
+// ALGORITMO FATORIAL
+
+1. leia x
+2. adicione a variavel potencia x
+3. multiplique de 1 até x
+4. escreva produto da multiplicação
+
+
+
+
+

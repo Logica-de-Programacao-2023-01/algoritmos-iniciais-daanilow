@@ -1,0 +1,4 @@
+Leia x
+Leia y
+soma = x + y
+escreva soma
