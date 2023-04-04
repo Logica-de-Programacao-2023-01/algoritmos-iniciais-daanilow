@@ -1,6 +1,0 @@
-// ALGORITMO DE MEDIA
-
-1. leia lista
-2. para cada numero da lista adicionar a variavel lista
-3. soma = lista / variavel lista
-4. escreva soma
